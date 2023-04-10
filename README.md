@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khaled Alwakel
 - 👀 I’m interested in Back End Development
 - 🌱 I’m currently learning Rest Api With Node.js, Express.js, MongoDB and mongoose
-- 💞️ I’m looking to collaborate on open source Projects
+- 💞️ I’m looking to collaborate on open source Project or an internship 
 - 📫 How to reach me ...khaledmofreh33@gmail.com
 
 <!---
