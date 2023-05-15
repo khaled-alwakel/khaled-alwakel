@@ -5,8 +5,8 @@
 - 💞️ I’m looking to collaborate on open source Project or an internship 
 - 📫 How to reach me 
   - https://www.linkedin.com/in/khaled-alwakel-2107311a0/ 
-  - https://medium.com/@khaledmofreh33
   -  khaledmofreh33@gmail.com
+  -  https://medium.com/@khaledmofreh33
   
   
 
