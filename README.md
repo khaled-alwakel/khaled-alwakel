@@ -5,10 +5,10 @@
 - 💞️ I’m looking to collaborate on open source Project or an internship 
 - 📫 How to reach me 
   - https://www.linkedin.com/in/khaled-alwakel-2107311a0/ 
-  -  khaledmofreh33@gmail.com
-  -  https://medium.com/@khaledmofreh33
-  
-  
+  - khaledmofreh33@gmail.com
+  - https://medium.com/@khaledmofreh33
+  - https://codepen.io/mofreh
+  - https://www.freecodecamp.org/khaled-alwakel
 
 <!---
 khaled-alwakel/khaled-alwakel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
