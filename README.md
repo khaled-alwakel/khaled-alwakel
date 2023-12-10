@@ -6,8 +6,8 @@
 - 📫 How to reach me 
   - https://www.linkedin.com/in/khaled-alwakel-2107311a0/ 
   - khaledmofreh33@gmail.com
+- folllow me
   - https://medium.com/@khaledmofreh33
-  - https://codepen.io/mofreh
   - https://www.freecodecamp.org/khaled-alwakel
 
 <!---
