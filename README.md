@@ -4,7 +4,7 @@
 - 💪 also i'm doing a  Rest Api With Node.js, Express.js, MongoDB with mongoose 
 - 💞️ I’m looking to collaborate on open source Project or an internship 
 - 📫 How to reach me 
-  - https://www.linkedin.com/in/khaled-alwakel-2107311a0/ 
+  - https://www.linkedin.com/in/khaled-alwakel/
   - khaledmofreh33@gmail.com
 - folllow me
   - https://medium.com/@khaledmofreh33
