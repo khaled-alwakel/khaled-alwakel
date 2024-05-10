@@ -8,7 +8,6 @@
   - khaledmofreh33@gmail.com
 - folllow me
   - https://medium.com/@khaledmofreh33
-  - https://www.freecodecamp.org/khaled-alwakel
 
 <!---
 khaled-alwakel/khaled-alwakel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
